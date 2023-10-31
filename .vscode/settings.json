@@ -8,5 +8,15 @@
     "source.fixAll": true
   },
   "files.eol": "\n",
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "cSpell.words": [
+    "beforeinstallprompt",
+    "Cheatsheet",
+    "Codespace",
+    "crossorigin",
+    "ICTOER",
+    "ITAS",
+    "katex",
+    "rehype"
+  ]
 }
