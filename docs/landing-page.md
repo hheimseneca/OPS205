@@ -1,6 +1,6 @@
 ---
 id: landing-page
-title: Welcome to OPS245
+title: Welcome to OPS205
 sidebar_position: 1
 slug: /
 description: Landing Home Page for OPS245
