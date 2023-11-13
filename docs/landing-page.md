@@ -71,7 +71,7 @@ Most of the learning in this course occurs through the hands-on problem solving 
 
 **During the Winter 2024 semester, OPS205 is taught by:**
 
-![Hans Heim]
+![Hans Heim](/img/hheim.jpg)
 
 **[Hans Heim](mailto:hans.heim@senecacollege.ca)** \| Section **NAA**
 
