@@ -68,7 +68,7 @@ You will download and compile the game called **lbreakout2** which is only avail
 
 ### Part 1: Common Booting Issues
 
-There are a few "classic problems" that students can encounter with their virtual machines and their host machine after performing lab2. Although all OPS245 students may not encounter these problems, it is good to be aware of what a potential problem may look like, and know how to solve that problem.
+There are a few "classic problems" that students can encounter with their virtual machines and their host machine after performing lab2. Although all OPS205 students may not encounter these problems, it is good to be aware of what a potential problem may look like, and know how to solve that problem.
 
 **A few common problems are:**
 
