@@ -3,27 +3,27 @@ id: landing-page
 title: Welcome to OPS205
 sidebar_position: 1
 slug: /
-description: Landing Home Page for OPS245
+description: Landing Home Page for OPS205
 ---
 
 # Welcome to OPS205 - Open Systems Server
 
 ## Quick Links
 
-| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/findOutline.do?schoolCode=SICT&termCode=20233&subjectCode=OPS245) | [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
+| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/findOutline.do?schoolCode=SICT&termCode=20233&subjectCode=OPS205) | [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 
 ## What This Course is About
 
 This course is the second in a series of courses about Linux technologies
 
-- ULI101 taught you to be a Linux user. **In OPS245, you will move from being a Linux user to being a Linux system administrator.**
+- OPS105 taught you to be a Linux user. **In OPS205, you will move from being a Linux user to being a Linux system administrator.**
 - As a system administrator, you will be responsible for installing, configuring, adjusting, maintaining, and troubleshooting the operation of computer systems. This is a lot of responsibility, and with that responsibility comes power. You will be able to change anything on the system, and you will also have the ability to damage or destroy the system.
 - In addition to manually configuring machines, you will learn to use automation tools to "deploy" changes to multiple systems within our organization. Although this course will not cover the full features of these tools, it will serve as an introduction to scripting and automation to make you a more capable and efficient system administrator.
 - In this course you will use an external SSD drive (USB 3) with the lab computers on campus to set up a Linux system.
 - Alternatively you can use your own computer to complete the labs providing it meets the hardware requirements.
 - You will also set up at least four additional Linux systems using "Virtual Machines", and therefore gain experience with different types of system configurations as well as setting up networking between systems.
-- The next course in the OPS stream (OPS345) will expand on what you learn here and teach you to administer Linux servers (web servers, DNS servers, FTP servers, file sharing servers) in a cloud environment.
+- The next course in the OPS stream (OPS305) will expand on what you learn here and teach you to administer Linux servers (web servers, DNS servers, FTP servers, file sharing servers) in a cloud environment.
 
 > ![caution](/img/caution.png)
 >
@@ -59,7 +59,7 @@ Most of the learning in this course occurs through the hands-on problem solving 
 3. **USB Flash Drive** (3.0 preferred) **Minimum Capacity:** 16 GB
 4. **Lab Logbook** (download & print Both sides per lab permitted)
 
-   - [Download Doc](/files/OPS245-Logbook-Online.doc)
+   - [Download Doc](/files/OPS205-Logbook-Online.doc)
    - **NOTE: If you've taken this class in a previous semester, you MAY NOT bring that version of the lab logbook to any testing.**
    - Your Professor will direct you on what they want you to do with the Lab Lag Book
 
@@ -69,19 +69,11 @@ Most of the learning in this course occurs through the hands-on problem solving 
 
 ## Course Faculty
 
-**During the Fall 2023 semester, OPS245 is taught by:**
-
-![Brian Gray](/img/bgray.png)
-
-**[Brian Gray](mailto:brian.gray@senecacollege.ca)** \| Section **NAA, NBB**
+**During the Winter 2024 semester, OPS205 is taught by:**
 
 ![Hans Heim](/img/hans.jpg)
 
 **[Hans Heim](mailto:hans.heim@senecacollege.ca)** \| Section **NDD, NEE**
-
-![Jason Carman](/img/JasonCarman.jpg)
-
-**[Jason Carman](mailto:jason.carman@senecacollege.ca)** \| Section **NFF**
 
 ## Evaluation
 
