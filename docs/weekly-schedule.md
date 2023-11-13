@@ -20,7 +20,7 @@ description: Weekly Schedule Page for OPS205
 
 | **Learning Objectives and Tasks** | **Lecture Notes:**                                                                            | **Evaluation** |
 | :-------------------------------- | :-------------------------------------------------------------------------------------------- | :------------- |
-| **Post-Installation Tasks:**      | **Scripting Practice:** [OPS245 Scripting Exercises](/C-ExtraResources/scripting-exercise.md) |                |
+| **Post-Installation Tasks:**      | **Scripting Practice:** [OPS205 Scripting Exercises](/C-ExtraResources/scripting-exercise.md) |                |
 | - Post-Install Commands           |                                                                                               |                |
 
 ## Week 3
