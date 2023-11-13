@@ -5,7 +5,7 @@ sidebar_position: 2
 description: TBD
 ---
 
-# Lab 1: Installing Debian 12 with VMware Workstation
+# Lab 1: Installing Debian 12 with VMware Workstation hi
 
 ## Lab Preparation
 
