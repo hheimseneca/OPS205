@@ -10,7 +10,7 @@ description: Landing Home Page for OPS205
 
 ## Quick Links
 
-| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/findOutline.do?schoolCode=SICT&termCode=20233&subjectCode=OPS245) | [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
+| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=%5BOPS205%5D+Open+Systems+Servers&schoolCode=0s867160) | [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 
 ## What This Course is About
@@ -51,7 +51,7 @@ Most of the learning in this course occurs through the hands-on problem solving 
 
 ## Required Materials
 
-1. **Solid State Drive (SSD) Minimum Capacity:** 240 GB
+1. **Solid State Drive (SSD) Minimum Capacity:** 240 GB (500+ preferred)
 2. **Debian 12 netinstaller ISO Image**
 
    - [Download from Debian](https://www.debian.org)
@@ -73,7 +73,7 @@ Most of the learning in this course occurs through the hands-on problem solving 
 
 ![Hans Heim](/img/hans.jpg)
 
-**[Hans Heim](mailto:hans.heim@senecacollege.ca)** \| Section **NDD, NEE**
+**[Hans Heim](mailto:hans.heim@senecacollege.ca)** \| Section **NAA**
 
 ## Evaluation
 
