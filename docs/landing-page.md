@@ -6,7 +6,7 @@ slug: /
 description: Landing Home Page for OPS205
 ---
 
-# Welcome to OPS205 - Open Systems Server
+# Welcome to OPS205 - Open Systems Servers
 
 ## Quick Links
 
